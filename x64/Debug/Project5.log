@@ -1,0 +1,5 @@
+﻿  Array.cpp
+C:\cis22b\Project5\Project5\Array.cpp(140,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FileName.cpp
+  Generating Code...
+  Project5.vcxproj -> C:\cis22b\Project5\x64\Debug\Project5.exe
